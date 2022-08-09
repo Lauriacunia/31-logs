@@ -1,0 +1,22 @@
+{
+  "name": "31-logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lauriacunia/31-logs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lauriacunia/31-logs/issues"
+  },
+  "homepage": "https://github.com/Lauriacunia/31-logs#readme"
+}
